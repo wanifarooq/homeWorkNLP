@@ -1,17 +1,6 @@
 # NLP-2021: First Homework
 This is the first homework of the NLP 2021 course at Sapienza University of Rome.
 
-#### Instructor
-* **Roberto Navigli**
-	* Webpage: http://wwwusers.di.uniroma1.it/~navigli/
-
-#### Teaching Assistants
-* **Cesare Campagnano**
-* **Pere-Lluís Huguet Cabot**
-
-#### Course Info
-* http://naviglinlp.blogspot.com/
-
 ## Requirements
 
 * Ubuntu distribution
