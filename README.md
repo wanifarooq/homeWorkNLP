@@ -1,4 +1,4 @@
-# NLP-2021: First Homework
+# NLP-2021: word in context Disambiguation Using Lstm and BiLstm
 This is the first homework of the NLP 2021 course at Sapienza University of Rome.
 
 ## Requirements
